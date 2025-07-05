@@ -1,5 +1,3 @@
-# Telegram Product Finder Bot
+# Telegram Product Finder Bot for Render
 
-Поиск товаров на WB, Ozon, Яндекс.Маркете по фото и названию с анализом цен.
-
-Разработано для деплоя на Railway.
+Deploys as a background worker bot with photo recognition and price analysis.
